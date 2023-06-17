@@ -4,4 +4,4 @@
 pnpm dlx fisand
 ```
 
-<img width="638" alt="image" src="https://user-images.githubusercontent.com/21095710/231634301-e5d5f4b9-08da-4a22-9cf2-a185f04e1993.png">
+<img width="636" alt="image" src="https://github.com/fisand/.github/assets/21095710/2db4c203-b39d-4dea-8ad2-42ee451c37ad">
